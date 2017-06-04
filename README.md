@@ -3,9 +3,9 @@ ES6 Starter with Webpack
 
 Installation:
 
-1. git clone ...
+1. git clone https://github.com/steven-fernandez/es6-webpack-starter.git
 
-2. cd ...
+2. cd es6-webpack-starter
 
 3. npm install
 
